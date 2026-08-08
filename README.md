@@ -109,5 +109,3 @@ src/
 This project is MIT‑licensed – see the `LICENSE` file for details.
 
 ---
-
-*Built with ���� �� �� ❤������️ using Claude Code.*
